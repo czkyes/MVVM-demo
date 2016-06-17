@@ -1,0 +1,7 @@
+target :'zciotRequestOC' do
+pod 'FMDB'
+pod 'SDWebImage'
+pod 'FDFullscreenPopGesture'
+pod 'JSONModel'
+pod 'MBProgressHUD','~>0.9.1'
+end
